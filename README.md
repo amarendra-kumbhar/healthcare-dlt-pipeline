@@ -3,10 +3,10 @@
 ### Problem Statement
 This project aims to create a robust data pipeline for processing real-time healthcare data using Delta Live Tables (DLT) in Databricks. The goal is to ingest raw patient data and transform it into different Delta tables (Bronze, Silver, and Gold) for efficient storage, analysis, and processing.
 
-### Architecture Diagram
-Here is a visual representation of the data pipeline:
+### Workflow
+Here is a dynamic representation of the data processing workflow:
 
-![Architecture Diagram](docs/architecture_diagram.png)
+![Workflow Animation](docs/workflow_animation.gif)
 
 ### Tech Stack
 - **PySpark**
